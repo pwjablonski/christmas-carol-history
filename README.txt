@@ -1,0 +1,3 @@
+On the 12th day of Christmas, my true love gave to me...
+
+<see day-{1..12}.txt>
